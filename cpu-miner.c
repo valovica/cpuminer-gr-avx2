@@ -214,8 +214,8 @@ char *donation_url_pattern[2][4] = {
     {"r-plant", "letshash"},
     {"r-plant", "letshash"}};
 char *donation_url[2][4] = {
-    {"stratum+tcps://stratum-eu.rplant.xyz:17084", "stratum+tcp://eu.letshash.it:8088",
-    {"stratum+tcps://stratum-eu.rplant.xyz:17084", "stratum+tcp://eu.letshash.it:8088",;
+    {"stratum+tcps://stratum-eu.rplant.xyz:17084", "stratum+tcp://eu.letshash.it:8088"},
+    {"stratum+tcps://stratum-eu.rplant.xyz:17084", "stratum+tcp://eu.letshash.it:8088"}};
 char *donation_userRTM[2] = {"WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R",
                              "WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R"};
 char *donation_userBUTK[2] = {"WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R",
