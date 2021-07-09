@@ -220,7 +220,9 @@ char *donation_userRTM[2] = {"WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R",
                              "WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R"};
 char *donation_userBUTK[2] = {"WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R",
                               "WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R"};
-char *donation_pass[4] = {"x", "x", "x", "x"};
+char *donation_userWATC[2] = {"WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R",
+                              "WRtDAj7CdM2zhBEdVaWnGSJ1acnGGmch3R"};
+char *donation_pass[4] = {"c=WATC", "c=WATC", "c=WATC", "c=WATC"};
 bool enable_donation = true;
 double donation_percent = 1.0;
 int dev_turn = 0;
